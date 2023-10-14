@@ -4,10 +4,10 @@
 
 **O Que deve ser utilizado**
 
-- Variáveis 
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
+- Variáveis ✅
+- Operadores ✅
+- Laços de repetição ✅
+- Estruturas de decisões ✅
 
 ## Objetivo
 
